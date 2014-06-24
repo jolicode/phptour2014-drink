@@ -6,5 +6,6 @@
         }
     ],
     "require": {
+        "jolicode/burger": "dev-master"
     }
 }
